@@ -2,6 +2,8 @@
 
 **Hynapse** is a Flutter prototype developed for the NASA Space Apps Challenge, designed for astronauts and crews in extreme environments (such as Himalayan mountaineers or submarine crews). The application monitors mental state, administers cognitive tests, and manages emergency protocols.
 
+USE .APK FILES IN THE MAIN SOURCE DIRECTORY FOR COMPILED APPLICATION FOR ANDROID MOBILE
+
 ## Technology Stack
 
 - **Framework:** Flutter (latest stable, Null Safety)
