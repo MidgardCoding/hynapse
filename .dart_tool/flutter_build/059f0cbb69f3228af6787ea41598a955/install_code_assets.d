@@ -1,0 +1,1 @@
+ C:\\Users\\nonco\\Desktop\\FlutterTutorial\\hynapse\\.dart_tool\\flutter_build\\059f0cbb69f3228af6787ea41598a955\\native_assets.json: 
